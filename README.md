@@ -1,2 +1,2 @@
 # Project_DSAA
-Sustc Data structure and algorithm analysis Project
+Sustc Data structure and algorithm analysis B project
